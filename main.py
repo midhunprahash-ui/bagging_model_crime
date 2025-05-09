@@ -429,3 +429,13 @@ elif page == "Predictive Deployment Suggestions":
 # --- Footer ---
 st.sidebar.markdown("---")
 st.sidebar.write("Developed for Thoothukudi Police")
+st.sidebar.write("Data Science & Analytics Team")
+st.sidebar.write("© 2023")
+st.sidebar.write("All rights reserved.")
+st.sidebar.markdown("**Disclaimer:** This is a prototype system. Predictions are based on historical data and may not reflect real-time conditions.")
+st.sidebar.markdown("**Contact:** [Your Contact Info]") # Add your contact info or organization link
+st.sidebar.markdown("**Feedback:** [Your Feedback Link]") # Add a feedback link or form
+st.sidebar.markdown("**GitHub:** [Your GitHub Link]") # Add your GitHub or project link
+st.sidebar.markdown("**License:** [Your License Info]") # Add license info if applicable
+# --- End of Script ---
+```
